@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "msw-config-mongodb"
+		},
+		{
+			"path": "msw-config-server"
+		},
+		{
+			"path": "msw-eureka-server"
+		},
+		{
+			"path": "msw-frontend"
+		},
+		{
+			"path": "msw-gateway-zuul"
+		},
+		{
+			"path": "msw-payroll"
+		},
+		{
+			"path": "msw-user"
+		},
+		{
+			"path": "msw-worker"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
